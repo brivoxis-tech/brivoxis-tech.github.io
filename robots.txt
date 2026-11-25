@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://brivoxis-tech.github.io/sitemap.xml
